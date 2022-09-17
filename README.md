@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Adi29Sinha
-- 👀 I’m interested in Software Development, Data Science and ML/AI
-- 🌱 I’m currently learning Data Science
 - 📫 You can reach me using email i.e. adi29195sinha@gmail.com or connect with me on linkedin @ linkedin.com/in/aditya-sinha-2901
 
 <!---
